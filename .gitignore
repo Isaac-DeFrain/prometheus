@@ -1,0 +1,4 @@
+*
+!.gitignore
+!prometheus.yml
+!prometheus-2.43.0.linux-amd64.tar.gz
